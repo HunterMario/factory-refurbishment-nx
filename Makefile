@@ -45,6 +45,7 @@ INCLUDES	:=	include
 
 APP_TITLE := "factory-refurbishment-nx"
 APP_AUTHOR := "HunterMario"
+APP_VERSION = 1.1.1
 
 #ROMFS	:=	romfs
 
